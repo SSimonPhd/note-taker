@@ -2,10 +2,11 @@
 
 Modify starter code to create an application called Note Taker that can be used to write and save notes. Use Express.js back end to save and retrieve note data from a JSON file:
 
+1. Created repo
 1. Copied starter files
 1. Ran npm install
-1. Reviewed starter files
-1. Coded server and routes
+1. Modified starter files
+1. Coded necessary javascript
 1. Tested and debugged
 1. Deployed to Heroku
 
