@@ -17,3 +17,7 @@ Modify starter code to create an application called Note Taker that can be used 
 - URL to deployed application
 
 https://glacial-tor-40031.herokuapp.com/
+
+- URL to GitHub repo
+
+https://github.com/SSimonPhd/note-taker
