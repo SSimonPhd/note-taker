@@ -20,4 +20,4 @@ https://glacial-tor-40031.herokuapp.com/
 
 - URL to GitHub repo
 
-https://github.com/SSimonPhd/note-taker
+https://github.com/SSimonPhd/note-taker 
